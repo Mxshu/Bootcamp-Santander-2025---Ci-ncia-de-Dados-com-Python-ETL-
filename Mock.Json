@@ -1,0 +1,55 @@
+{
+ "id": 11,
+  "name": "Guile",
+  "account": {
+    "id": 12,
+    "number": "00001-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 500.00  
+},
+  "card": {
+    "id": 13,
+    "number": "xxxx xxxx xxxx 2222",
+    "limit": 1000.00
+  },
+  "features": [],
+  "news": []
+},
+{
+ "id": 17,
+  "name": "Mushu",
+  "account": {
+    "id": 18,
+    "number": "00002-2",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 1000.00  
+},
+  "card": {
+    "id": 19,
+    "number": "xxxx xxxx xxxx 1111",
+    "limit": 1000.00
+  },
+  "features": [],
+  "news": []
+},
+{
+"id": 26,
+  "name": "Jim",
+  "account": {
+    "id": 27,
+    "number": "00003-3",
+    "agency": "0003",
+    "balance": 0,
+    "limit": 500.00  
+},
+  "card": {
+    "id": 28,
+    "number": "xxxx xxxx xxxx 3333",
+    "limit": 1000.00
+  },
+  "features": [],
+  "news": []
+}
+
